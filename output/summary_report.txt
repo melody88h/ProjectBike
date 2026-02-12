@@ -1,0 +1,46 @@
+============================================================
+CityBike — Summary Report
+============================================================
+
+--- Overall Summary ---
+Total trips: 1480
+Total distance: 11366.84 km
+Average duration: 23.57 min
+
+--- Top Start Stations ---
+station_id      station_name  trip_count
+     ST106          Old Town         110
+     ST103    Riverside Park         109
+     ST104     Market Square         107
+     ST107       Harbor View         105
+     ST102         City Hall         103
+     ST113          Lakeside         103
+     ST112 Business District         103
+     ST105          Tech Hub         102
+     ST101 University Campus          97
+     ST100   Central Station          96
+
+--- Peak Usage Hours ---
+start_time
+6     71
+7     95
+8     66
+9     82
+10    74
+11    87
+12    91
+13    81
+14    76
+15    91
+16    93
+17    91
+18    98
+19    94
+20    98
+21    97
+22    95
+
+--- Maintenance Cost by Bike Type ---
+bike_type
+classic      5496.39
+electric    13988.04
